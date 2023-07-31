@@ -9,7 +9,7 @@ The Voice-Activated Calculator is a Python program that leverages the power of s
 
 Calculators have been essential tools for performing mathematical operations quickly and accurately. However, traditional calculators often require manual input, which can be time-consuming and prone to errors. The Voice-Activated Calculator aims to overcome these limitations by introducing speech recognition technology, enabling users to interact with the calculator using their voice.
 
-By leveraging the capabilities of the Python programming language and various libraries, the Voice-Activated Calculator transforms spoken words into actionable calculations. The program uses audio processing techniques and Mel-frequency cepstral coefficients (MFCC) to extract features from spoken words and identify the corresponding digits and operations. With this approach, users can effortlessly perform calculations without the need for manual input.
+By leveraging the capabilities of the Python programming language and various libraries, the Voice-Activated Calculator transforms spoken words into actionable calculations. The program uses audio processing techniques and Mel-frequency cepstral coefficients (MFCC) to extract features from spoken words and identify the corresponding digits and operations. With this approach, users can effortlessly perform calculations without the need for manual input .
 
 ## Features
 
